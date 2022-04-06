@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![Mobile version](disc/screenshots/Profile-Card-Component-mobile.png)
-![Desktop version](disc/screenshots/Profile-Card-Component-mobile.png)
+![Desktop version](disc/screenshots/Profile-Card-Component-desktop.png)
 
 ### Links
 
