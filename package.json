@@ -1,0 +1,16 @@
+{
+  "name": "profile-card-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d disc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://olisa187.github.io",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
