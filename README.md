@@ -25,12 +25,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 ![Mobile version](disc/screenshots/Profile-Card-Component-mobile.png)
-![Desktop version](disc/screenshots/Profile-Card-Component-desktop.png)
+![Desktop version](disc/screenshots/Profile-Card-Component-desktop-main.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/olisa187/Profile-card-component)
-- Live Site URL: [Profile-card-component website](https://your-live-site-url.com)
+- Live Site URL: [Profile-card-component website](https://olisa187.github.io/Profile-card-component/)
 
 ## My process
 
