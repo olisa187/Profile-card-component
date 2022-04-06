@@ -34,8 +34,8 @@ body{
 	position: relative;
 	line-height: 1.5;
 	background: 
-	url(images/bg-pattern-top.svg) left -340px  top -550px no-repeat,
-	var(--clr-Dark-cyan) url(images/bg-pattern-bottom.svg) right -250px bottom -790px no-repeat;
+	url(images/bg-pattern-top.svg) left -289px  top -550px no-repeat,
+	var(--clr-Dark-cyan) url(images/bg-pattern-bottom.svg) right -250px bottom -750px no-repeat;
 }
 
 .container{
